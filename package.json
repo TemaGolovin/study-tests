@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TemaGolovin/study-tests/issues"
   },
-  "homepage": "https://github.com/TemaGolovin/study-tests#readme"
+  "homepage": "https://github.com/TemaGolovin/study-tests#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
 }
